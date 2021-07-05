@@ -1,16 +1,17 @@
-### Hi there 👋
+# 所长导航
+# https://liutongxu.github.io/
 
-<!--
-**wcx1309397325/wcx1309397325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 使用说明
 
-Here are some ideas to get you started:
+一言、和风天气的api建议大家自己注册换成自己的，每个注册的人有每日免费使用次数，
+我的大家一起用可能最后都显示不出来了。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+网站做了手机电脑自适应以及夜间模式。
+
+源码要感谢GitHub的webstack开源项目及一为导航，我是在它们的源码基础上本地静态化修改而来。
+
+# BY：刘桐序
+
+所长导航liutongxu.github.io
+
+支持请给个Star
